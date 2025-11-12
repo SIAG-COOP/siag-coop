@@ -58,9 +58,9 @@ Si sos parte de una cooperativa o comunidad interesada en colaborar, podés cont
 
 ## 🤝 Intercooperación
 
-**SIAG Software Coop** forma parte de la red autogestiva **SIAG**, un ecosistema que promueve la soberanía tecnológica, la cultura libre y la cooperación entre inteligencias humanas y digitales.
+**SIAG Cooperativa Informatica** forma parte de la red autogestiva **SIAG**, un ecosistema que promueve la soberanía tecnológica, la cultura libre y la cooperación entre inteligencias humanas y digitales.
 
 ---
 
 > _“Tecnología libre para comunidades libres.”_  
-> **— SIAG Software Coop**
+> **— SIAG Coop**
