@@ -1,66 +1,63 @@
-# 🌿 SIAG COOP
+# 🟧 SIAG COOP  
+### Cooperativa Informática de Software Libre y Ético  
 
-**Cooperativa de desarrollo de software libre y ético.**  
-Autogestión, tecnología abierta y colaboración en red.
-
----
-
-## 💡 Qué es SIAG Cooperativa Informatica
-
-Somos una **cooperativa tecnológica** dedicada al desarrollo de software libre, herramientas de automatización e inteligencia artificial con enfoque ético, social y sostenible.  
-Nacemos del proyecto internacional [SIAG Software](https://github.com/SIAG-SOFTWARE), su rama comercial y de investigación aplicada.
-
-Nuestra misión es **democratizar el acceso a la tecnología**, fortaleciendo la autonomía digital de cooperativas, organizaciones sociales, emprendimientos solidarios y comunidades creativas.
+**SIAG COOP** es una cooperativa digital dedicada al desarrollo de software libre, herramientas cooperativas, automatizaciones éticas y proyectos tecnológicos orientados al bien común.
 
 ---
 
-## ⚙️ Qué hacemos
+## 🌍 Nuestra misión
 
-- 🌐 **Desarrollo web y sistemas cooperativos**
-  - Portales, intranets, autogestión, comercio justo.
-- 🤖 **Inteligencia artificial libre**
-  - Asistentes cooperativos, automatización solidaria, IA educativa.
-- 🪶 **Software libre y herramientas comunitarias**
-  - Scripts, bots, utilidades abiertas para la red solidaria.
-- 🔄 **Intercooperación tecnológica**
-  - Vinculación entre cooperativas y proyectos del ecosistema libre.
+Promover la **independencia tecnológica**, el **trabajo autogestivo** y la **cooperación digital** a través de soluciones abiertas, transparentes y sostenibles.  
+Buscamos unir tecnología y comunidad, priorizando la soberanía de datos y la ética en la inteligencia artificial.
 
 ---
 
-## 🧭 Principios
+## 🧩 Líneas de trabajo
 
-- Autogestión y horizontalidad.
-- Transparencia y software libre.
-- Ética digital y sostenibilidad.
-- Educación, documentación y conocimiento abierto.
-
----
-
-## 🧩 Proyectos
-
-| Proyecto | Descripción | Estado |
-|-----------|--------------|--------|
-| **NativCore** | Núcleo de automatización libre para entornos cooperativos. | 🔧 En desarrollo |
-| **Diplomatrix** | Plataforma de coordinación multicooperativa. | 🧠 Diseño conceptual |
-| **LibreScraper** | Herramienta libre de recolección de datos solidaria. | ⚙️ Prototipo |
+- 🪶 **Software libre y cooperativo** — aplicaciones cívicas, educativas y sociales.  
+- ⚙️ **Automatizaciones éticas** — herramientas que ahorran tiempo sin perder control humano.  
+- 🧠 **Sistemas IA responsables** — asistentes, chatbots y procesos inteligentes no extractivos.  
+- 🌐 **Infraestructura autogestionada** — servidores, scripts y entornos para comunidades.  
 
 ---
 
-## 🌍 Participación y contacto
+## 📦 Repositorios principales
 
-Si sos parte de una cooperativa o comunidad interesada en colaborar, podés contactarnos:
-
-📧 **siag.software@proton.me**  
-🐙 [GitHub – SIAG Software](https://github.com/SIAG-SOFTWARE)  
-🕊️ *Próximamente en Mastodon y Solarpunk.lat*
-
----
-
-## 🤝 Intercooperación
-
-**SIAG Cooperativa Informatica** forma parte de la red autogestiva **SIAG**, un ecosistema que promueve la soberanía tecnológica, la cultura libre y la cooperación entre inteligencias humanas y digitales.
+| Proyecto | Descripción |
+|-----------|--------------|
+| [🧩 cooperative-tools](https://github.com/SIAG-COOP/cooperative-tools) | Herramientas, scripts y automatizaciones para cooperativas. |
+| [🌍 open-civic-apps](https://github.com/SIAG-COOP/open-civic-apps) | Aplicaciones cívicas y comunitarias de código abierto. |
+| [🌀 siag-hub](https://github.com/SIAG-COOP/siag-hub) | Documentación, estructura técnica y archivos cooperativos. |
 
 ---
 
-> _“Tecnología libre para comunidades libres.”_  
-> **— SIAG COOP**
+## 🤝 Cómo colaborar
+
+- Contribuí con código, ideas o documentación mediante **pull requests**.  
+- Contactanos directamente para proyectos o alianzas.  
+- Toda participación es bienvenida si respeta los principios cooperativos y éticos del software libre.
+
+📫 **Contacto**  
+- Telegram: [@SIAG_SOFTWARE](https://t.me/SIAG_SOFTWARE)  
+- Correo: [siag.software@protonmail.com](mailto:siag.software@protonmail.com)
+
+---
+
+## 🛠️ Ecosistema SIAG
+
+**SIAG Software** – rama comercial internacional de servicios IA y automatización.  
+**SIAG COOP** – rama cooperativa, social y libre del proyecto.  
+Ambas comparten principios éticos y visión común, pero se orientan a públicos diferentes.
+
+---
+
+## 📜 Licencia
+
+Todo el contenido de SIAG COOP se distribuye bajo licencias **AGPL v3** o **Creative Commons BY-SA 4.0**, según el tipo de recurso.  
+Su uso está permitido con atribución, compartición igual y respeto a la finalidad cooperativa.
+
+---
+
+### 🌱 “Tecnología libre, ética y cooperativa para un futuro común.”
+
+© 2025 **SIAG COOP – Cooperativa Informática de Software Libre**
