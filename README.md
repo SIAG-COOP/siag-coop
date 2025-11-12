@@ -1,11 +1,11 @@
-# 🌿 SIAG Software Coop
+# 🌿 SIAG Coop
 
 **Cooperativa de desarrollo de software libre y ético.**  
 Autogestión, tecnología abierta y colaboración en red.
 
 ---
 
-## 💡 Qué es SIAG Software Coop
+## 💡 Qué es SIAG Cooperativa Informatica
 
 Somos una **cooperativa tecnológica** dedicada al desarrollo de software libre, herramientas de automatización e inteligencia artificial con enfoque ético, social y sostenible.  
 Nacemos del proyecto internacional [SIAG Software](https://github.com/SIAG-SOFTWARE), su rama comercial y de investigación aplicada.
