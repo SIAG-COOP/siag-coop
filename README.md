@@ -1,4 +1,4 @@
-# 🌿 SIAG Coop
+# 🌿 SIAG COOP
 
 **Cooperativa de desarrollo de software libre y ético.**  
 Autogestión, tecnología abierta y colaboración en red.
@@ -63,4 +63,4 @@ Si sos parte de una cooperativa o comunidad interesada en colaborar, podés cont
 ---
 
 > _“Tecnología libre para comunidades libres.”_  
-> **— SIAG Coop**
+> **— SIAG COOP**
