@@ -37,6 +37,8 @@ Buscamos unir tecnología y comunidad, priorizando la soberanía de datos y la �
 - Contactanos directamente para proyectos o alianzas.  
 - Toda participación es bienvenida si respeta los principios cooperativos y éticos del software libre.
 
+Para colaboraciones, donaciones, financiaciones, trueques y acuerdos mutuales contactarse a:
+
 📫 **Contacto**  
 - Telegram: [@SIAG_SOFTWARE](https://t.me/SIAG_SOFTWARE)  
 - Correo: [siag.software@protonmail.com](mailto:siag.software@protonmail.com)
