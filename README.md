@@ -45,6 +45,8 @@ Cualquier cooperativa, desarrollador, colectivo o comunidad puede colaborar:
 - Creando nuevas aplicaciones  
 - Proponiendo funcionalidades  
 - Compartiendo necesidades concretas  
+- Colaboraciones, alianzas y acuerdos mutuales
+- Donaciones, financiaciones e intercambios.
 
 ---
 
